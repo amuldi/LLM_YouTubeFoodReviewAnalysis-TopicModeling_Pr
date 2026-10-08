@@ -2,7 +2,13 @@
 __pycache__/
 .ipynb_checkpoints/
 data/
-outputs/
+outputs/classified_comments.csv
+outputs/comment_review*.csv
+outputs/preprocessing_audit.csv
+outputs/topic_label_comparison.csv
+outputs/topics_*.csv
+outputs/topic_documents.html
+outputs/보고서_초안.md
 models/
 scripts/.last_validation_path
 .DS_Store
